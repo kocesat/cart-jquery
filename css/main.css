@@ -1,0 +1,13 @@
+.add-to-cart {
+  position: relative;
+  padding: 0px;
+  border: none;
+}
+
+#cart {
+  position: absolute;
+  right: -12px;
+  top: -5px;
+  background-color: #fc0366;
+}
+  
